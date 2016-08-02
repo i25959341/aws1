@@ -1,0 +1,14 @@
+/usr/local/lib/python2.7/dist-packages/rebound/simulation.py:293: RuntimeWarning: You have to reset function pointers after creating a reb_simulation struct with a binary file.
+  warnings.warn(message, RuntimeWarning)
+Running Monotonic Basin Hopping .... this will take a while.
+1. 	Local solution: [9.8373509375647891e-05]	Global best: [0.13209410887639564] i
+New solution accepted. Constraints vector: [-1.3239844353814256e-06]
+1. 	Local solution: [4.0617217011838262e-05]	Global best: [9.8373509375647891e-05] i
+New solution accepted. Constraints vector: [-1.9475371254400187e-07]
+1. 	Local solution: [6.8076729538703701e-06]	Global best: [4.0617217011838262e-05] i
+2. 	Local solution: [2.528985929078505e-05]	Global best: [4.0617217011838262e-05] i
+3. 	Local solution: [4.2326909800180195e-05]	Global best: [4.0617217011838262e-05] i
+4. 	Local solution: [9.0459488630747947e-05]	Global best: [4.0617217011838262e-05] i
+5. 	Local solution: [1.9133290774788412e-06]	Global best: [4.0617217011838262e-05] i
+Is the solution found a feasible trajectory? False
+[[481.7562219528664, -0.00032499201527236044, 0.00037872577914733265, 8.209375819116015e-07]]

@@ -1,0 +1,5 @@
+/usr/local/lib/python2.7/dist-packages/rebound/simulation.py:293: RuntimeWarning: You have to reset function pointers after creating a reb_simulation struct with a binary file.
+  warnings.warn(message, RuntimeWarning)
+Running Monotonic Basin Hopping .... this will take a while.
+1. 	Local solution: [0.00028581134455889028]	Global best: [0.2159939820925682] i
+New solution accepted. Constraints vector: [9.4867275215945734e-06]

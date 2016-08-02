@@ -1,0 +1,102 @@
+Running Monotonic Basin Hopping .... this will take a while.
+1. 	Local solution: [-3.2781521021309746e-27]	Global best: [-3.3960442779704824e-27] i
+New solution accepted. Constraints vector: [0.055889431765063405, 0.00059615680844241829]
+1. 	Local solution: [-3.2781597664251322e-27]	Global best: [-3.2781521021309746e-27] i
+2. 	Local solution: [-3.2783569512372631e-27]	Global best: [-3.2781521021309746e-27] i
+3. 	Local solution: [-3.2794739641118626e-27]	Global best: [-3.2781521021309746e-27] i
+4. 	Local solution: [-3.2781889863710039e-27]	Global best: [-3.2781521021309746e-27] i
+5. 	Local solution: [-3.2780356861515353e-27]	Global best: [-3.2781521021309746e-27] i
+New solution accepted. Constraints vector: [0.055883169606481771, 0.00059548602527466788]
+1. 	Local solution: [-3.2779253285880945e-27]	Global best: [-3.2780356861515353e-27] i
+2. 	Local solution: [-3.2776340968897237e-27]	Global best: [-3.2780356861515353e-27] i
+New solution accepted. Constraints vector: [0.052744364507869235, 0.00063260790227254431]
+1. 	Local solution: [-3.2766276764754193e-27]	Global best: [-3.2776340968897237e-27] i
+New solution accepted. Constraints vector: [0.049394259083037788, 0.00067299029323519746]
+1. 	Local solution: [-3.2772408677250228e-27]	Global best: [-3.2766276764754193e-27] i
+2. 	Local solution: [-3.2770564068934708e-27]	Global best: [-3.2766276764754193e-27] i
+3. 	Local solution: [-3.2775391033024746e-27]	Global best: [-3.2766276764754193e-27] i
+4. 	Local solution: [-3.2767489928188428e-27]	Global best: [-3.2766276764754193e-27] i
+New solution accepted. Constraints vector: [0.048874543873117002, 0.00067825857211418453]
+1. 	Local solution: [-3.2766240955548074e-27]	Global best: [-3.2767489928188428e-27] i
+New solution accepted. Constraints vector: [0.048586971726630138, 0.00068178066198401415]
+1. 	Local solution: [-3.2773869555633183e-27]	Global best: [-3.2766240955548074e-27] i
+2. 	Local solution: [-3.2758207584234826e-27]	Global best: [-3.2766240955548074e-27] i
+New solution accepted. Constraints vector: [0.045530289128999549, 0.0007187078911842159]
+1. 	Local solution: [-3.2767685339405505e-27]	Global best: [-3.2758207584234826e-27] i
+2. 	Local solution: [-3.2752319925338864e-27]	Global best: [-3.2758207584234826e-27] i
+New solution accepted. Constraints vector: [0.041818269246298126, 0.00076185169092513332]
+1. 	Local solution: [-3.2759161621532032e-27]	Global best: [-3.2752319925338864e-27] i
+New solution accepted. Constraints vector: [0.041351829475446106, 0.00076938236772757353]
+1. 	Local solution: [-3.2744806734216766e-27]	Global best: [-3.2759161621532032e-27] i
+New solution accepted. Constraints vector: [0.040575200078311405, 0.00078152362690600162]
+1. 	Local solution: [-3.2742826599125638e-27]	Global best: [-3.2744806734216766e-27] i
+New solution accepted. Constraints vector: [0.038878323418707492, 0.00079629516100208366]
+1. 	Local solution: [-3.2762790082547279e-27]	Global best: [-3.2742826599125638e-27] i
+2. 	Local solution: [-3.2747576257679947e-27]	Global best: [-3.2742826599125638e-27] i
+3. 	Local solution: [-3.2744378837943001e-27]	Global best: [-3.2742826599125638e-27] i
+4. 	Local solution: [-3.2744311615522501e-27]	Global best: [-3.2742826599125638e-27] i
+5. 	Local solution: [-3.2745241414694575e-27]	Global best: [-3.2742826599125638e-27] i
+6. 	Local solution: [-3.2800509041368242e-27]	Global best: [-3.2742826599125638e-27] i
+7. 	Local solution: [-3.273102009248663e-27]	Global best: [-3.2742826599125638e-27] i
+New solution accepted. Constraints vector: [0.034776461937296034, 0.0008442536292122254]
+1. 	Local solution: [-3.2734408229223048e-27]	Global best: [-3.273102009248663e-27] i
+2. 	Local solution: [-3.2734355754960328e-27]	Global best: [-3.273102009248663e-27] i
+3. 	Local solution: [-3.2753171730929359e-27]	Global best: [-3.273102009248663e-27] i
+New solution accepted. Constraints vector: [0.034361581777356126, 0.00085132476497439078]
+1. 	Local solution: [-3.2725650420558312e-27]	Global best: [-3.2753171730929359e-27] i
+2. 	Local solution: [-3.2733905083502055e-27]	Global best: [-3.2753171730929359e-27] i
+3. 	Local solution: [-3.2733807586031321e-27]	Global best: [-3.2753171730929359e-27] i
+4. 	Local solution: [-3.2733884549051249e-27]	Global best: [-3.2753171730929359e-27] i
+5. 	Local solution: [-3.2732858508401885e-27]	Global best: [-3.2753171730929359e-27] i
+New solution accepted. Constraints vector: [0.033956469305299421, 0.00085420492333864026]
+1. 	Local solution: [-3.2727842946895537e-27]	Global best: [-3.2732858508401885e-27] i
+New solution accepted. Constraints vector: [0.0326458278815423, 0.00086978007493077525]
+1. 	Local solution: [-3.2783253704620435e-27]	Global best: [-3.2727842946895537e-27] i
+New solution accepted. Constraints vector: [0.031861541891459462, 0.00090808349587311781]
+1. 	Local solution: [-3.2737843971000886e-27]	Global best: [-3.2783253704620435e-27] i
+2. 	Local solution: [-3.2721550721669199e-27]	Global best: [-3.2783253704620435e-27] i
+New solution accepted. Constraints vector: [0.030043610676419936, 0.00089999047684627778]
+1. 	Local solution: [-3.2735737411871658e-27]	Global best: [-3.2721550721669199e-27] i
+2. 	Local solution: [-3.2582195453048477e-27]	Global best: [-3.2721550721669199e-27] i
+New solution accepted. Constraints vector: [0.028843545859663172, 0.00091466686359347143]
+1. 	Local solution: [-3.2586139630093432e-27]	Global best: [-3.2582195453048477e-27] i
+2. 	Local solution: [-3.2500942833138866e-27]	Global best: [-3.2582195453048477e-27] i
+New solution accepted. Constraints vector: [0.02837037406174259, 0.00091989033789157543]
+1. 	Local solution: [-3.2719649942682786e-27]	Global best: [-3.2500942833138866e-27] i
+2. 	Local solution: [-3.2726570341422836e-27]	Global best: [-3.2500942833138866e-27] i
+3. 	Local solution: [-3.2530988557438425e-27]	Global best: [-3.2500942833138866e-27] i
+4. 	Local solution: [-3.2260637554305853e-27]	Global best: [-3.2500942833138866e-27] i
+New solution accepted. Constraints vector: [0.027107240726956885, 0.00093482145909067689]
+1. 	Local solution: [-3.232566063151611e-27]	Global best: [-3.2260637554305853e-27] i
+2. 	Local solution: [-3.2325502033520341e-27]	Global best: [-3.2260637554305853e-27] i
+New solution accepted. Constraints vector: [0.025193416773388086, 0.00095780431166485975]
+1. 	Local solution: [-3.2394527205010642e-27]	Global best: [-3.2325502033520341e-27] i
+New solution accepted. Constraints vector: [0.024477658386252415, 0.00096642665421313011]
+1. 	Local solution: [-3.2264645079867181e-27]	Global best: [-3.2394527205010642e-27] i
+2. 	Local solution: [-3.2568061351148429e-27]	Global best: [-3.2394527205010642e-27] i
+New solution accepted. Constraints vector: [0.022513555314886725, 0.00099049620521476749]
+1. 	Local solution: [-3.2527619715719985e-27]	Global best: [-3.2568061351148429e-27] i
+2. 	Local solution: [-3.2578757258460478e-27]	Global best: [-3.2568061351148429e-27] i
+3. 	Local solution: [-3.2574726337763482e-27]	Global best: [-3.2568061351148429e-27] i
+4. 	Local solution: [-3.2385162899051453e-27]	Global best: [-3.2568061351148429e-27] i
+5. 	Local solution: [-3.2218294171076817e-27]	Global best: [-3.2568061351148429e-27] i
+6. 	Local solution: [-3.2631465000910599e-27]	Global best: [-3.2568061351148429e-27] i
+7. 	Local solution: [-3.2457150291781271e-27]	Global best: [-3.2568061351148429e-27] i
+8. 	Local solution: [-3.25345087409374e-27]	Global best: [-3.2568061351148429e-27] i
+9. 	Local solution: [-3.2535982713708467e-27]	Global best: [-3.2568061351148429e-27] i
+10. 	Local solution: [-3.2365186419368925e-27]	Global best: [-3.2568061351148429e-27] i
+11. 	Local solution: [-3.2194044421285709e-27]	Global best: [-3.2568061351148429e-27] i
+12. 	Local solution: [-3.2588760262760413e-27]	Global best: [-3.2568061351148429e-27] i
+13. 	Local solution: [-3.2434661949592064e-27]	Global best: [-3.2568061351148429e-27] i
+14. 	Local solution: [-3.2422667086897347e-27]	Global best: [-3.2568061351148429e-27] i
+15. 	Local solution: [-3.2452597452576821e-27]	Global best: [-3.2568061351148429e-27] i
+16. 	Local solution: [-3.2546254436219919e-27]	Global best: [-3.2568061351148429e-27] i
+17. 	Local solution: [-3.25271182323019e-27]	Global best: [-3.2568061351148429e-27] i
+18. 	Local solution: [-3.2591601418583931e-27]	Global best: [-3.2568061351148429e-27] i
+New solution accepted. Constraints vector: [0.022205110127601912, 0.00099387827067515299]
+1. 	Local solution: [-3.2496712008647087e-27]	Global best: [-3.2591601418583931e-27] i
+2. 	Local solution: [-3.2453048420015417e-27]	Global best: [-3.2591601418583931e-27] i
+3. 	Local solution: [-3.2558844061480368e-27]	Global best: [-3.2591601418583931e-27] i
+4. 	Local solution: [-3.2639556747051906e-27]	Global best: [-3.2591601418583931e-27] i
+5. 	Local solution: [-3.2549281110132487e-27]	Global best: [-3.2591601418583931e-27] i
+6. 	Local solution: [-3.2620685304231577e-27]	Global best: [-3.2591601418583931e-27] i
